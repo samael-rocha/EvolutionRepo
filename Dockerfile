@@ -1,4 +1,4 @@
-FROM atendai/evolution-api:1.8.2
+FROM atendai/evolution-api:v2.1.0
 
 ENV PORT=8080
 ENV DATABASE_PROVIDER=postgresql
