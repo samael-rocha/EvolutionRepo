@@ -4,4 +4,4 @@ ENV DATABASE_PROVIDER=postgresql
 
 EXPOSE 8080
 
-CMD ["node", "dist/src/main.js"]
+// CMD ["node", "dist/src/main.js"]
